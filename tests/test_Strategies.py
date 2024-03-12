@@ -1,6 +1,5 @@
 import unittest
 
-import betting
 from betting.Strategies import FixedBettor, PercentageBettor, KellyCriterion, FixedMartingale
 from betting.Strategies import PercentageMartingale, FixedSoros, PercentageSoros, FixedFibonacci
 from betting.Strategies import PercentageFibonacci, FixedDAlembert
